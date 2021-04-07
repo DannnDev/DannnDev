@@ -10,3 +10,6 @@ Here is a list of some more info about me and what I am working on:
 - ⚡ Fun fact: **I work on Tropity for at least 3 hours every day!**
 
 Also you should 100% check out our amazing new website [Tropity!](https://tropity.com)
+
+# My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TropityDan)
